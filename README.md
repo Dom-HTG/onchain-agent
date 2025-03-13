@@ -4,7 +4,7 @@
 - Interacting with smart contracts
 - Deploying ERC-Tokens
 
-* Tools*
+*Tools*
 
 - OpenAI 
 - Viem
